@@ -23,4 +23,3 @@ for i in range(10):
 
 for t in Patient:
     t.join()
-    
